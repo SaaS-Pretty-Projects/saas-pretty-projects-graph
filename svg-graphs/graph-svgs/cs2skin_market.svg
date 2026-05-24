@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><filter id="glow"><feGaussianBlur stdDeviation="1.5" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="800" height="800" fill="#0d1117"/>
+<line x1="549.8" y1="581.1" x2="234.2" y2="555.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="549.8" y1="581.1" x2="190.8" y2="317.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="549.8" y1="581.1" x2="202.8" y2="291.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="234.2" y1="555.7" x2="190.8" y2="317.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="234.2" y1="555.7" x2="202.8" y2="291.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="573.1" y2="562.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="414.4" y2="629.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="385.6" y2="629.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="356.9" y2="625.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="218.0" y2="267.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="215.9" y2="533.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="236.0" y2="246.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="256.6" y2="226.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="279.4" y2="210.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="304.2" y2="196.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="200.6" y2="509.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="330.5" y2="186.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="357.8" y2="179.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="385.9" y2="175.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="667.5" y1="400.0" x2="414.1" y2="175.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="573.1" y1="562.6" x2="200.6" y2="509.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="573.1" y1="562.6" x2="330.5" y2="186.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="573.1" y1="562.6" x2="357.8" y2="179.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="573.1" y1="562.6" x2="279.4" y2="210.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="573.1" y1="562.6" x2="414.4" y2="629.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="573.1" y1="562.6" x2="304.2" y2="196.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="414.4" y1="629.5" x2="215.9" y2="533.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="414.4" y1="629.5" x2="414.1" y2="175.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="385.6" y1="629.5" x2="356.9" y2="625.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="385.6" y1="629.5" x2="218.0" y2="267.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="385.6" y1="629.5" x2="256.6" y2="226.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="356.9" y1="625.9" x2="236.0" y2="246.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="215.9" y1="533.7" x2="356.9" y2="625.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="200.6" y1="509.6" x2="385.9" y2="175.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="188.5" y1="483.7" x2="276.8" y2="594.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="649.4" y1="464.0" x2="469.5" y2="186.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="649.4" y1="464.0" x2="495.8" y2="196.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="495.8" y1="196.4" x2="469.5" y2="186.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="660.4" y1="432.9" x2="174.3" y2="428.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="660.4" y1="432.9" x2="543.4" y2="226.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="660.4" y1="432.9" x2="564.0" y2="246.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="660.4" y1="432.9" x2="471.8" y2="621.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="660.4" y1="432.9" x2="582.0" y2="267.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="660.4" y1="432.9" x2="443.6" y2="628.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="660.4" y1="432.9" x2="174.3" y2="371.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="660.4" y1="432.9" x2="179.6" y2="343.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="174.3" y1="428.5" x2="520.6" y2="210.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="582.0" y1="267.7" x2="172.5" y2="400.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="443.6" y1="628.4" x2="597.2" y2="291.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="443.6" y1="628.4" x2="253.4" y2="577.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="443.6" y1="628.4" x2="609.2" y2="317.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="443.6" y1="628.4" x2="617.9" y2="344.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="174.3" y1="371.5" x2="623.2" y2="371.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<circle cx="667.5" cy="400.0" r="8.2" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<text x="667.5" y="415.2" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">sync-steam-products.js</text>
+<circle cx="660.4" cy="432.9" r="7.8" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="660.4" y="447.6" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">Blueprint: CS2 Skin Sh</text>
+<circle cx="649.4" cy="464.0" r="7.2" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<text x="649.4" y="478.3" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">AdminProducts.vue</text>
+<circle cx="627.8" cy="490.2" r="6.0" fill="#96CEB4" opacity="0.8" filter="url(#glow)"/>
+<text x="627.8" y="503.2" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">ProductView.vue</text>
+<circle cx="614.7" cy="518.0" r="6.0" fill="#FFEAA7" opacity="0.8" filter="url(#glow)"/>
+<text x="614.7" y="531.0" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">LoginView.vue</text>
+<circle cx="594.2" cy="541.1" r="5.5" fill="#98D8C8" opacity="0.8" filter="url(#glow)"/>
+<circle cx="573.1" cy="562.6" r="5.2" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="549.8" cy="581.1" r="5.0" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="524.6" cy="596.3" r="4.8" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="499.0" cy="610.4" r="4.8" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="471.8" cy="621.1" r="4.8" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<circle cx="443.6" cy="628.4" r="4.8" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="414.4" cy="629.5" r="4.5" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="385.6" cy="629.5" r="4.5" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="356.9" cy="625.9" r="4.5" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="328.9" cy="618.7" r="4.5" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="302.1" cy="608.1" r="4.5" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="276.8" cy="594.2" r="4.5" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="253.4" cy="577.2" r="4.5" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="234.2" cy="555.7" r="4.2" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="215.9" cy="533.7" r="4.2" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="200.6" cy="509.6" r="4.2" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="188.5" cy="483.7" r="4.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="179.6" cy="456.6" r="4.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="174.3" cy="428.5" r="4.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="172.5" cy="400.0" r="4.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="174.3" cy="371.5" r="4.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="179.6" cy="343.4" r="4.2" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<circle cx="190.8" cy="317.2" r="4.0" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="202.8" cy="291.6" r="4.0" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="218.0" cy="267.7" r="4.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="236.0" cy="246.0" r="4.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="256.6" cy="226.6" r="4.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="279.4" cy="210.0" r="4.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="304.2" cy="196.4" r="4.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="330.5" cy="186.0" r="4.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="357.8" cy="179.0" r="4.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="385.9" cy="175.4" r="4.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="414.1" cy="175.4" r="4.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="442.2" cy="179.0" r="4.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="469.5" cy="186.0" r="4.0" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<circle cx="495.8" cy="196.4" r="4.0" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<circle cx="520.6" cy="210.0" r="4.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="543.4" cy="226.6" r="4.0" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<circle cx="564.0" cy="246.0" r="4.0" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<circle cx="582.0" cy="267.7" r="4.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="597.2" cy="291.6" r="4.0" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="609.2" cy="317.2" r="4.0" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="617.9" cy="344.0" r="4.0" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="623.2" cy="371.8" r="4.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="400" y="28" text-anchor="middle" fill="#e6edf3" font-size="13" font-family="sans-serif" font-weight="bold">cs2skin.market</text>
+<text x="400" y="46" text-anchor="middle" fill="#484f58" font-size="9" font-family="monospace">189 nodes · 168 links · 42 communities</text>
+<rect x="15" y="697" width="8" height="8" fill="#FF6B6B" rx="1.5" alpha="0.8"/>
+<text x="28" y="704" fill="#6e7681" font-size="7" font-family="monospace">C0: NEW_PROJECT_BLUEPR (25)</text>
+<rect x="15" y="709" width="8" height="8" fill="#4ECDC4" rx="1.5" alpha="0.8"/>
+<text x="28" y="716" fill="#6e7681" font-size="7" font-family="monospace">C1: sync-steam-product (20)</text>
+<rect x="15" y="721" width="8" height="8" fill="#45B7D1" rx="1.5" alpha="0.8"/>
+<text x="28" y="728" fill="#6e7681" font-size="7" font-family="monospace">C2: AdminProducts.vue (16)</text>
+<rect x="15" y="733" width="8" height="8" fill="#96CEB4" rx="1.5" alpha="0.8"/>
+<text x="28" y="740" fill="#6e7681" font-size="7" font-family="monospace">C3: ProductView.vue (11)</text>
+<rect x="15" y="745" width="8" height="8" fill="#FFEAA7" rx="1.5" alpha="0.8"/>
+<text x="28" y="752" fill="#6e7681" font-size="7" font-family="monospace">C4: LoginView.vue (11)</text>
+<rect x="15" y="757" width="8" height="8" fill="#DDA0DD" rx="1.5" alpha="0.8"/>
+<text x="28" y="764" fill="#6e7681" font-size="7" font-family="monospace">C5: Импорт товаров из  (11)</text>
+<rect x="15" y="769" width="8" height="8" fill="#98D8C8" rx="1.5" alpha="0.8"/>
+<text x="28" y="776" fill="#6e7681" font-size="7" font-family="monospace">C6: AccountDashboard.v (9)</text>
+<rect x="15" y="781" width="8" height="8" fill="#F7DC6F" rx="1.5" alpha="0.8"/>
+<text x="28" y="788" fill="#6e7681" font-size="7" font-family="monospace">C7: send-email.php (7)</text>
+</svg>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><filter id="glow"><feGaussianBlur stdDeviation="1.5" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="800" height="800" fill="#0d1117"/>
+<line x1="627.8" y1="525.3" x2="565.8" y2="244.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="627.8" y1="525.3" x2="584.1" y2="266.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="627.8" y1="525.3" x2="198.4" y2="289.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="627.8" y1="525.3" x2="599.4" y2="290.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="627.8" y1="525.3" x2="611.5" y2="316.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="627.8" y1="525.3" x2="620.4" y2="343.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="627.8" y1="525.3" x2="625.7" y2="371.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="627.8" y1="525.3" x2="326.6" y2="625.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="565.8" y1="244.3" x2="326.6" y2="625.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="584.1" y1="266.3" x2="620.4" y2="343.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="584.1" y1="266.3" x2="326.6" y2="625.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="198.4" y1="289.2" x2="625.7" y2="371.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="198.4" y1="289.2" x2="326.6" y2="625.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="599.4" y1="290.4" x2="326.6" y2="625.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="611.5" y1="316.3" x2="625.7" y2="371.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="620.4" y1="343.4" x2="326.6" y2="625.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="665.4" y1="433.5" x2="230.5" y2="559.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="665.4" y1="433.5" x2="213.9" y2="264.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="665.4" y1="433.5" x2="298.9" y2="614.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="665.4" y1="433.5" x2="211.9" y2="536.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="665.4" y1="433.5" x2="196.3" y2="512.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="665.4" y1="433.5" x2="183.8" y2="485.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="230.5" y1="559.2" x2="183.8" y2="485.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="230.5" y1="559.2" x2="196.3" y2="512.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="213.9" y1="264.8" x2="183.8" y2="485.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="213.9" y1="264.8" x2="196.3" y2="512.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="298.9" y1="614.9" x2="211.9" y2="536.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="196.3" y1="512.0" x2="183.8" y2="485.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="697.5" y1="400.0" x2="474.9" y2="630.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="697.5" y1="400.0" x2="250.2" y2="581.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="697.5" y1="400.0" x2="232.3" y2="242.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="697.5" y1="400.0" x2="253.4" y2="222.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="697.5" y1="400.0" x2="276.8" y2="205.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="474.9" y1="630.6" x2="250.2" y2="581.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="250.2" y1="581.1" x2="232.3" y2="242.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="253.4" y1="222.8" x2="276.8" y2="205.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="302.1" y1="191.9" x2="471.1" y2="181.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="302.1" y1="191.9" x2="356.9" y2="174.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="174.8" y1="457.8" x2="328.9" y2="181.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="445.4" y1="638.2" x2="272.7" y2="600.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="445.4" y1="638.2" x2="385.6" y2="170.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="272.7" y1="600.5" x2="356.9" y2="174.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="272.7" y1="600.5" x2="385.6" y2="170.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="559.4" y1="592.6" x2="497.9" y2="191.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="644.1" y1="496.6" x2="169.3" y2="429.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="644.1" y1="496.6" x2="167.5" y2="400.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="167.5" y1="400.0" x2="523.2" y2="205.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="585.9" y1="574.6" x2="169.3" y2="370.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="585.9" y1="574.6" x2="384.8" y2="642.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="585.9" y1="574.6" x2="174.8" y2="342.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="585.9" y1="574.6" x2="183.8" y2="314.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<circle cx="697.5" cy="400.0" r="10.0" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<text x="697.5" y="417.0" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">sync-steam-products.js</text>
+<circle cx="665.4" cy="433.5" r="8.2" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<text x="665.4" y="448.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">send-email.php</text>
+<circle cx="656.7" cy="465.9" r="8.0" fill="#98D8C8" opacity="0.8" filter="url(#glow)"/>
+<text x="656.7" y="480.9" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">HomeView.vue</text>
+<circle cx="644.1" cy="496.6" r="7.8" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<text x="644.1" y="511.4" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">Blueprint: CS2 Skin Sh</text>
+<circle cx="627.8" cy="525.3" r="7.5" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<text x="627.8" y="539.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">steam-auth.php</text>
+<circle cx="608.3" cy="551.4" r="7.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="608.3" y="565.6" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">AdminProducts.vue</text>
+<circle cx="585.9" cy="574.6" r="7.0" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="585.9" y="588.6" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">CS2 Skin Market — Proj</text>
+<circle cx="559.4" cy="592.6" r="6.5" fill="#FFEAA7" opacity="0.8" filter="url(#glow)"/>
+<text x="559.4" y="606.1" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">Runtime Env + FTP Depl</text>
+<circle cx="531.3" cy="606.9" r="6.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="531.3" y="619.9" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">ProductView.vue</text>
+<circle cx="504.3" cy="621.7" r="6.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="504.3" y="634.7" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">LoginView.vue</text>
+<circle cx="474.9" cy="630.6" r="5.8" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<text x="474.9" y="643.4" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">main()</text>
+<circle cx="445.4" cy="638.2" r="5.8" fill="#96CEB4" opacity="0.8" filter="url(#glow)"/>
+<text x="445.4" y="651.0" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">index.js</text>
+<circle cx="415.2" cy="642.0" r="5.8" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="415.2" y="654.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">AccountDashboard.vue</text>
+<circle cx="384.8" cy="642.0" r="5.8" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="384.8" y="654.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">Firebase Service Accou</text>
+<circle cx="355.0" cy="635.7" r="5.5" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="326.6" cy="625.9" r="5.2" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="298.9" cy="614.9" r="5.2" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="272.7" cy="600.5" r="5.2" fill="#96CEB4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="250.2" cy="581.1" r="5.0" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<circle cx="230.5" cy="559.2" r="4.8" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="211.9" cy="536.7" r="4.8" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="196.3" cy="512.0" r="4.8" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="183.8" cy="485.6" r="4.8" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="174.8" cy="457.8" r="4.8" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="169.3" cy="429.1" r="4.8" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="167.5" cy="400.0" r="4.8" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="169.3" cy="370.9" r="4.8" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<circle cx="174.8" cy="342.2" r="4.8" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<circle cx="183.8" cy="314.4" r="4.8" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<circle cx="198.4" cy="289.2" r="4.5" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="213.9" cy="264.8" r="4.5" fill="#DDA0DD" opacity="0.8" filter="url(#glow)"/>
+<circle cx="232.3" cy="242.6" r="4.5" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<circle cx="253.4" cy="222.8" r="4.5" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<circle cx="276.8" cy="205.8" r="4.5" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<circle cx="302.1" cy="191.9" r="4.5" fill="#96CEB4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="328.9" cy="181.3" r="4.5" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="356.9" cy="174.1" r="4.5" fill="#96CEB4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="385.6" cy="170.5" r="4.5" fill="#96CEB4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="414.4" cy="170.5" r="4.5" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="443.1" cy="174.1" r="4.5" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="471.1" cy="181.3" r="4.5" fill="#96CEB4" opacity="0.8" filter="url(#glow)"/>
+<circle cx="497.9" cy="191.9" r="4.5" fill="#FFEAA7" opacity="0.8" filter="url(#glow)"/>
+<circle cx="523.2" cy="205.8" r="4.5" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="545.0" cy="224.7" r="4.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<circle cx="565.8" cy="244.3" r="4.2" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="584.1" cy="266.3" r="4.2" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="599.4" cy="290.4" r="4.2" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="611.5" cy="316.3" r="4.2" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="620.4" cy="343.4" r="4.2" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<circle cx="625.7" cy="371.5" r="4.2" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<text x="400" y="28" text-anchor="middle" fill="#e6edf3" font-size="13" font-family="sans-serif" font-weight="bold">lootexo.com</text>
+<text x="400" y="46" text-anchor="middle" fill="#484f58" font-size="9" font-family="monospace">327 nodes · 358 links · 40 communities</text>
+<rect x="15" y="697" width="8" height="8" fill="#FF6B6B" rx="1.5" alpha="0.8"/>
+<text x="28" y="704" fill="#6e7681" font-size="7" font-family="monospace">C0: code:env (FIREBASE (42)</text>
+<rect x="15" y="709" width="8" height="8" fill="#4ECDC4" rx="1.5" alpha="0.8"/>
+<text x="28" y="716" fill="#6e7681" font-size="7" font-family="monospace">C1: NEW_PROJECT_BLUEPR (37)</text>
+<rect x="15" y="721" width="8" height="8" fill="#45B7D1" rx="1.5" alpha="0.8"/>
+<text x="28" y="728" fill="#6e7681" font-size="7" font-family="monospace">C2: sync-steam-product (32)</text>
+<rect x="15" y="733" width="8" height="8" fill="#96CEB4" rx="1.5" alpha="0.8"/>
+<text x="28" y="740" fill="#6e7681" font-size="7" font-family="monospace">C3: index.js (23)</text>
+<rect x="15" y="745" width="8" height="8" fill="#FFEAA7" rx="1.5" alpha="0.8"/>
+<text x="28" y="752" fill="#6e7681" font-size="7" font-family="monospace">C4: RUNTIME_ENV_DEPLOY (22)</text>
+<rect x="15" y="757" width="8" height="8" fill="#DDA0DD" rx="1.5" alpha="0.8"/>
+<text x="28" y="764" fill="#6e7681" font-size="7" font-family="monospace">C5: send-email.php (20)</text>
+<rect x="15" y="769" width="8" height="8" fill="#98D8C8" rx="1.5" alpha="0.8"/>
+<text x="28" y="776" fill="#6e7681" font-size="7" font-family="monospace">C6: HomeView.vue (19)</text>
+<rect x="15" y="781" width="8" height="8" fill="#F7DC6F" rx="1.5" alpha="0.8"/>
+<text x="28" y="788" fill="#6e7681" font-size="7" font-family="monospace">C7: steam-auth.php (17)</text>
+</svg>

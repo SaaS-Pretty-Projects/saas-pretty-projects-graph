@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<defs><filter id="glow"><feGaussianBlur stdDeviation="1.5" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="800" height="800" fill="#0d1117"/>
+<line x1="147.5" y1="400.0" x2="319.7" y2="647.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="515.0" y1="644.3" x2="147.5" y2="400.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="669.6" y1="506.8" x2="147.5" y2="400.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="289.3" y1="635.3" x2="147.5" y2="400.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="449.7" y1="660.3" x2="147.5" y2="400.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="515.0" y1="644.3" x2="319.7" y2="647.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="669.6" y1="506.8" x2="319.7" y2="647.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="289.3" y1="635.3" x2="319.7" y2="647.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="449.7" y1="660.3" x2="319.7" y2="647.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="634.9" y1="339.7" x2="180.9" y2="279.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="515.0" y1="644.3" x2="634.9" y2="339.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="669.6" y1="506.8" x2="634.9" y2="339.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="289.3" y1="635.3" x2="634.9" y2="339.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="449.7" y1="660.3" x2="634.9" y2="339.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="669.6" y1="506.8" x2="180.9" y2="279.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="289.3" y1="635.3" x2="180.9" y2="279.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="449.7" y1="660.3" x2="180.9" y2="279.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="197.7" y1="253.1" x2="180.9" y2="279.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="217.8" y1="228.9" x2="180.9" y2="279.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="149.5" y1="368.4" x2="180.9" y2="279.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="504.3" y1="178.3" x2="180.9" y2="279.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="546.0" y1="630.1" x2="515.0" y2="644.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="669.6" y1="506.8" x2="197.7" y2="253.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="669.6" y1="506.8" x2="217.8" y2="228.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="669.6" y1="506.8" x2="149.5" y2="368.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="669.6" y1="506.8" x2="504.3" y2="178.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="546.0" y1="630.1" x2="669.6" y2="506.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="546.0" y1="630.1" x2="197.7" y2="253.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="651.9" y1="538.5" x2="197.7" y2="253.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="546.0" y1="630.1" x2="217.8" y2="228.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="651.9" y1="538.5" x2="217.8" y2="228.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="546.0" y1="630.1" x2="149.5" y2="368.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="651.9" y1="538.5" x2="149.5" y2="368.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="546.0" y1="630.1" x2="504.3" y2="178.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="651.9" y1="538.5" x2="504.3" y2="178.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="546.0" y1="630.1" x2="449.7" y2="660.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="546.0" y1="630.1" x2="289.3" y2="635.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="546.0" y1="630.1" x2="651.9" y2="538.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="212.3" y1="576.3" x2="632.6" y2="569.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="212.3" y1="576.3" x2="155.4" y2="337.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="240.6" y1="207.4" x2="531.3" y2="193.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="632.6" y1="569.0" x2="240.6" y2="207.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="165.2" y1="307.0" x2="240.6" y2="207.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="602.3" y1="590.0" x2="240.6" y2="207.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="416.6" y1="664.5" x2="240.6" y2="207.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="384.5" y1="153.0" x2="240.6" y2="207.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="446.4" y1="156.9" x2="240.6" y2="207.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="350.8" y1="657.9" x2="240.6" y2="207.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="632.6" y1="569.0" x2="531.3" y2="193.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="165.2" y1="307.0" x2="531.3" y2="193.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="602.3" y1="590.0" x2="531.3" y2="193.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="416.6" y1="664.5" x2="531.3" y2="193.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="384.5" y1="153.0" x2="531.3" y2="193.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="446.4" y1="156.9" x2="531.3" y2="193.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="350.8" y1="657.9" x2="531.3" y2="193.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="598.2" y1="256.0" x2="294.6" y2="176.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="162.9" y1="493.9" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="162.9" y1="493.9" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="162.9" y1="493.9" x2="632.6" y2="569.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="162.9" y1="493.9" x2="191.7" y2="551.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="162.9" y1="493.9" x2="415.5" y2="153.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="162.9" y2="493.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="153.0" y1="463.4" x2="697.8" y2="476.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="153.0" y1="463.4" x2="234.3" y2="600.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="153.0" y1="463.4" x2="632.6" y2="569.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="153.0" y1="463.4" x2="191.7" y2="551.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="153.0" y1="463.4" x2="155.4" y2="337.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="153.0" y1="463.4" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="153.0" y1="463.4" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="153.0" y2="463.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="323.5" y1="164.6" x2="632.6" y2="569.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="323.5" y1="164.6" x2="191.7" y2="551.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="323.5" y1="164.6" x2="697.8" y2="476.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="323.5" y2="164.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="155.4" y1="337.2" x2="632.6" y2="569.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="155.4" y1="337.2" x2="191.7" y2="551.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="155.4" y1="337.2" x2="697.8" y2="476.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="155.4" y1="337.2" x2="234.3" y2="600.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="155.4" y2="337.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="632.6" y1="569.0" x2="697.8" y2="476.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="632.6" y1="569.0" x2="234.3" y2="600.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="632.6" y1="569.0" x2="191.7" y2="551.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="260.7" y1="619.5" x2="632.6" y2="569.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="632.6" y2="569.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="350.8" y1="657.9" x2="632.6" y2="569.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="260.7" y1="619.5" x2="191.7" y2="551.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="191.7" y2="551.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="350.8" y1="657.9" x2="191.7" y2="551.4" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="640.6" y1="369.6" x2="446.4" y2="156.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="640.6" y1="369.6" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="640.6" y1="369.6" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="640.6" y2="369.6" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="556.2" y1="211.2" x2="697.8" y2="476.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="556.2" y1="211.2" x2="234.3" y2="600.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="556.2" y1="211.2" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="556.2" y1="211.2" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="556.2" y2="211.2" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="165.2" y1="307.0" x2="697.8" y2="476.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="165.2" y1="307.0" x2="234.3" y2="600.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="165.2" y2="307.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="602.3" y1="590.0" x2="446.4" y2="156.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="602.3" y2="590.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="174.4" y1="524.1" x2="446.4" y2="156.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="174.4" y1="524.1" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="174.4" y1="524.1" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="174.4" y2="524.1" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="384.5" y1="153.0" x2="416.6" y2="664.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="416.6" y2="664.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="147.0" y1="432.0" x2="697.8" y2="476.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="147.0" y1="432.0" x2="234.3" y2="600.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="147.0" y1="432.0" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="147.0" y1="432.0" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="147.0" y2="432.0" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="260.7" y1="619.5" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="260.7" y1="619.5" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="353.6" y1="156.9" x2="260.7" y2="619.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="578.6" y1="232.3" x2="260.7" y2="619.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="353.6" y1="156.9" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="353.6" y1="156.9" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="353.6" y2="156.9" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="578.6" y1="232.3" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="578.6" y1="232.3" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="578.6" y2="232.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="697.8" y1="476.5" x2="234.3" y2="600.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="697.8" y2="476.5" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="234.3" y2="600.3" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="576.9" y1="613.8" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="476.5" y1="164.6" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="383.5" y1="662.0" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="350.8" y1="657.9" x2="576.9" y2="613.8" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="476.5" y1="164.6" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="383.5" y1="662.0" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="780.0" y1="400.0" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<line x1="350.8" y1="657.9" x2="722.4" y2="440.7" stroke="#30363d" stroke-opacity="0.4" stroke-width="0.6"/>
+<circle cx="780.0" cy="400.0" r="10.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="780.0" y="417.0" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">StudioDashboard.tsx</text>
+<circle cx="722.4" cy="440.7" r="10.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="722.4" y="457.7" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">cn()</text>
+<circle cx="697.8" cy="476.5" r="10.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<text x="697.8" y="493.5" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">firebase.ts</text>
+<circle cx="669.6" cy="506.8" r="10.0" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="669.6" y="523.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">ai.ts</text>
+<circle cx="651.9" cy="538.5" r="10.0" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="651.9" y="555.5" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">fetch()</text>
+<circle cx="632.6" cy="569.0" r="10.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<text x="632.6" y="586.0" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">FirebaseProvider.tsx</text>
+<circle cx="602.3" cy="590.0" r="9.2" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<text x="602.3" y="606.2" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">LaunchDashboard.tsx</text>
+<circle cx="576.9" cy="613.8" r="9.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="576.9" y="630.1" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">utils.ts</text>
+<circle cx="546.0" cy="630.1" r="8.8" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="546.0" y="645.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">index.ts</text>
+<circle cx="515.0" cy="644.3" r="8.5" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="515.0" y="659.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">admin.ts</text>
+<circle cx="482.7" cy="654.4" r="8.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="482.7" y="669.7" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">deploy.mjs</text>
+<circle cx="449.7" cy="660.3" r="8.0" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="449.7" y="675.3" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">safepay.ts</text>
+<circle cx="416.6" cy="664.5" r="8.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="416.6" y="679.5" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">StudioPreviewModal.tsx</text>
+<circle cx="383.5" cy="662.0" r="7.8" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<text x="383.5" y="676.7" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">PublicPortfolio.tsx</text>
+<circle cx="350.8" cy="657.9" r="7.8" fill="#98D8C8" opacity="0.8" filter="url(#glow)"/>
+<text x="350.8" y="672.6" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">AdminDashboard.tsx</text>
+<circle cx="319.7" cy="647.3" r="7.5" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="319.7" y="661.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">FirestoreClient</text>
+<circle cx="289.3" cy="635.3" r="7.5" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="289.3" y="649.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">upload.ts</text>
+<circle cx="260.7" cy="619.5" r="7.5" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="260.7" y="634.0" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">TopUpModal.tsx</text>
+<circle cx="234.3" cy="600.3" r="7.5" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<text x="234.3" y="614.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">db</text>
+<circle cx="212.3" cy="576.3" r="7.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="212.3" y="590.5" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">App.tsx</text>
+<circle cx="191.7" cy="551.4" r="7.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="191.7" y="565.6" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">useAuth()</text>
+<circle cx="174.4" cy="524.1" r="7.2" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<text x="174.4" y="538.3" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">ProjectOperationsPanel</text>
+<circle cx="162.9" cy="493.9" r="7.0" fill="#98D8C8" opacity="0.8" filter="url(#glow)"/>
+<text x="162.9" y="507.9" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">AISuggestPanel.tsx</text>
+<circle cx="153.0" cy="463.4" r="7.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="153.0" y="477.4" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">ThemeSettingsModal.tsx</text>
+<circle cx="147.0" cy="432.0" r="7.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="147.0" y="446.0" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">LeadInbox.tsx</text>
+<circle cx="147.5" cy="400.0" r="6.8" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="147.5" y="413.7" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">firestore.ts</text>
+<circle cx="149.5" cy="368.4" r="6.8" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="149.5" y="382.1" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">handleTags()</text>
+<circle cx="155.4" cy="337.2" r="6.8" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="155.4" y="351.0" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">ThemeProvider.tsx</text>
+<circle cx="165.2" cy="307.0" r="6.8" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<text x="165.2" y="320.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">ProfilePublishPanel.ts</text>
+<circle cx="180.9" cy="279.6" r="6.5" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="180.9" y="293.1" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">authFromRequest()</text>
+<circle cx="197.7" cy="253.1" r="6.5" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="197.7" y="266.6" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">handleDescribe()</text>
+<circle cx="217.8" cy="228.9" r="6.5" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="217.8" y="242.4" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">handleImprove()</text>
+<circle cx="240.6" cy="207.4" r="6.5" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<text x="240.6" y="220.9" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">user.ts</text>
+<circle cx="266.0" cy="188.9" r="6.5" fill="#F7DC6F" opacity="0.8" filter="url(#glow)"/>
+<text x="266.0" y="202.4" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">Task 3 — Thread `onNav</text>
+<circle cx="294.6" cy="176.1" r="6.2" fill="#FFEAA7" opacity="0.8" filter="url(#glow)"/>
+<text x="294.6" y="189.3" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">Features.tsx</text>
+<circle cx="323.5" cy="164.6" r="6.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="323.5" y="177.9" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">AuthForm.tsx</text>
+<circle cx="353.6" cy="156.9" r="6.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="353.6" y="170.1" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">PlanBillingPanel.tsx</text>
+<circle cx="384.5" cy="153.0" r="6.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="384.5" y="166.2" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">StudioPreviewModal.tes</text>
+<circle cx="415.5" cy="153.0" r="6.2" fill="#98D8C8" opacity="0.8" filter="url(#glow)"/>
+<text x="415.5" y="166.2" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">ai.ts</text>
+<circle cx="446.4" cy="156.9" r="6.2" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<text x="446.4" y="170.1" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">portfolioReadiness.ts</text>
+<circle cx="476.5" cy="164.6" r="6.2" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="476.5" y="177.9" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">Templates.tsx</text>
+<circle cx="504.3" cy="178.3" r="6.0" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="504.3" y="191.3" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">handleUsage()</text>
+<circle cx="531.3" cy="193.1" r="6.0" fill="#4ECDC4" opacity="0.8" filter="url(#glow)"/>
+<text x="531.3" y="206.1" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">UserProfile</text>
+<circle cx="556.2" cy="211.2" r="6.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="556.2" y="224.2" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">ProjectComments.tsx</text>
+<circle cx="578.6" cy="232.3" r="6.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="578.6" y="245.3" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">UpgradePrompt.tsx</text>
+<circle cx="598.2" cy="256.0" r="6.0" fill="#FFEAA7" opacity="0.8" filter="url(#glow)"/>
+<text x="598.2" y="269.0" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">Landing.tsx</text>
+<circle cx="614.7" cy="282.0" r="6.0" fill="#96CEB4" opacity="0.8" filter="url(#glow)"/>
+<text x="614.7" y="295.0" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">Studio Dashboard Refin</text>
+<circle cx="627.8" cy="309.8" r="6.0" fill="#555" opacity="0.8" filter="url(#glow)"/>
+<text x="627.8" y="322.8" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">Preview page Cinematic</text>
+<circle cx="634.9" cy="339.7" r="5.8" fill="#FF6B6B" opacity="0.8" filter="url(#glow)"/>
+<text x="634.9" y="352.4" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">firebase-auth.ts</text>
+<circle cx="640.6" cy="369.6" r="5.8" fill="#45B7D1" opacity="0.8" filter="url(#glow)"/>
+<text x="640.6" y="382.4" text-anchor="middle" fill="#8b949e" font-size="6" font-family="monospace">ProjectQualityChecklis</text>
+<text x="400" y="28" text-anchor="middle" fill="#e6edf3" font-size="13" font-family="sans-serif" font-weight="bold">Portlixa</text>
+<text x="400" y="46" text-anchor="middle" fill="#484f58" font-size="9" font-family="monospace">655 nodes · 1,093 links · 43 communities</text>
+<rect x="15" y="697" width="8" height="8" fill="#FF6B6B" rx="1.5" alpha="0.8"/>
+<text x="28" y="704" fill="#6e7681" font-size="7" font-family="monospace">C0: json() (69)</text>
+<rect x="15" y="709" width="8" height="8" fill="#4ECDC4" rx="1.5" alpha="0.8"/>
+<text x="28" y="716" fill="#6e7681" font-size="7" font-family="monospace">C1: user.ts (59)</text>
+<rect x="15" y="721" width="8" height="8" fill="#45B7D1" rx="1.5" alpha="0.8"/>
+<text x="28" y="728" fill="#6e7681" font-size="7" font-family="monospace">C2: ReadinessCheck (48)</text>
+<rect x="15" y="733" width="8" height="8" fill="#96CEB4" rx="1.5" alpha="0.8"/>
+<text x="28" y="740" fill="#6e7681" font-size="7" font-family="monospace">C3: code:bash (npm run (45)</text>
+<rect x="15" y="745" width="8" height="8" fill="#FFEAA7" rx="1.5" alpha="0.8"/>
+<text x="28" y="752" fill="#6e7681" font-size="7" font-family="monospace">C4: Hero.tsx (40)</text>
+<rect x="15" y="757" width="8" height="8" fill="#DDA0DD" rx="1.5" alpha="0.8"/>
+<text x="28" y="764" fill="#6e7681" font-size="7" font-family="monospace">C5: code:bash (npm run (34)</text>
+<rect x="15" y="769" width="8" height="8" fill="#98D8C8" rx="1.5" alpha="0.8"/>
+<text x="28" y="776" fill="#6e7681" font-size="7" font-family="monospace">C6: AISuggestPanel.tsx (32)</text>
+<rect x="15" y="781" width="8" height="8" fill="#F7DC6F" rx="1.5" alpha="0.8"/>
+<text x="28" y="788" fill="#6e7681" font-size="7" font-family="monospace">C7: code:tsx ({) (30)</text>
+</svg>
